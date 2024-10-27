@@ -1,0 +1,7 @@
+
+6dd1f63bd20f115d9321b06ab03f1f10           Hossam
+
+https://api.openweathermap.org/data/2.5/weather?q=cairo&lang=ar&appid=6dd1f63bd20f115d9321b06ab03f1f10
+
+https://api.openweathermap.org/data/2.5/forecast?q=cairo&lang=ar&appid=6dd1f63bd20f115d9321b06ab03f1f10
+
